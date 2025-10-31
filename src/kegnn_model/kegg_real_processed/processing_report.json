@@ -1,0 +1,21 @@
+{
+  "original_data": {
+    "nodes": 588,
+    "edges": 2952,
+    "weights": 1728
+  },
+  "processed_data": {
+    "nodes": 588,
+    "edges": 1728,
+    "weights": 1728
+  },
+  "duplicate_edges": {
+    "total_duplicates": 1560,
+    "merge_strategy": "mean"
+  },
+  "output_files": {
+    "nodes": "kegg_real_processed/processed_nodes.csv",
+    "edges": "kegg_real_processed/processed_edges.csv",
+    "weights": "kegg_real_processed/processed_weights.json"
+  }
+}
