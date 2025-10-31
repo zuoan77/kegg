@@ -1,5 +1,13 @@
 ## 环境配置
+```bash
+# 创建虚拟环境
+python -m venv kegg_env
+source kegg_env/bin/activate  # Linux/Mac
+# 或 kegg_env\Scripts\activate  # Windows
 
+# 安装所有依赖
+pip install -r requirements.txt
+```
 
 ## 运行项目
 
